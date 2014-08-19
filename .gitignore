@@ -1,0 +1,6 @@
+#All php files
+*.php
+#one cpp file
+ignored3.cpp
+#folder
+folder1/
